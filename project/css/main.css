@@ -1,0 +1,245 @@
+
+
+button{
+    width: 230px;
+height: 56px;
+background-color: #f0423c;
+font-size: 14px;
+letter-spacing: 0px;
+line-height: 24px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Lato";
+cursor: pointer;
+}
+body {
+    
+    background-image: url(../images/bimg.jpg);
+    background-repeat: repeat-x;
+    }
+    
+.menu{
+    display: flex;
+}
+.navi{display: flex;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    font-weight: 400;
+    padding: 10px;
+        }
+.nav{font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Lato";
+    cursor: pointer;
+ 
+    }
+.nav__link1{padding: 10px;
+    color: #f0423c;
+    font-family: "Lato";
+    
+   }
+.login{
+    margin-left: auto;
+    padding: 10px;
+color: #999999;
+font-family: "Font Awesome";
+cursor: pointer;
+}   
+
+
+.banner{display: flex;
+    justify-content: center;
+    height: 35rem;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+  
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin: auto;
+    padding: 30px;
+}
+.row {
+    justify-content: center;
+    padding: 20px;
+}
+.txt{    display: flex;
+    justify-content: center;
+    height: 10rem;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+}
+.tx{display: flex;
+    justify-content: center;
+    height: 20rem;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+}
+.log{
+    width: 80px;
+    height: 57px;
+    border-radius: 13px;
+    filter: drop-shadow(2.5px 4.33px 2.5px rgba(0,0,0,0.15));
+    padding-top: 80px;
+}
+
+    
+
+.logods{
+    
+filter: drop-shadow(0 0 5.5px rgba(0,0,0,0.2));
+background-color: #f7f7f7;
+
+}
+
+.ttt{
+    width: 30px;
+height: 3px;
+background-color: #f0423c;
+margin: auto;
+}
+
+.btend{ display: flex;
+    justify-content: center;
+    height: 10rem;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.content{
+ display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    margin: auto;
+    
+}
+
+.icons{
+    display: flex;
+    height: 3rem;;
+    background-color: #424242;
+}
+.icons i {
+
+    cursor: pointer;
+}
+
+.grey{font-size: 14px;
+    letter-spacing: 10px;
+    line-height: 24px;
+    padding: 10px;
+    color: #999999;
+    cursor: pointer;
+}
+.red{font-size: 14px;
+    letter-spacing: 10px;
+    line-height: 24px;
+    padding: 10px;
+    color: #f0423c;
+    
+}
+.con{font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+    margin-left: auto;
+    color: #999999;
+    cursor: pointer;
+
+}
+
+.logo{
+    font-size: 24px;
+letter-spacing: 0px;
+line-height: 0px;
+color: #424242;
+font-weight: 700;
+font-family: "Exo";
+
+}
+
+.line{
+width: 30px;
+height: 2px;
+background-color: #e4e4e4;
+margin: auto;
+}
+
+.main-section {
+    height: 40rem;
+    
+}
+.row-align-items-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-section .col {
+
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.card-body { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+    
+    
+
+}
+.card1{width: 270px;
+    height: 180px;
+    filter: drop-shadow(0 0 5.5px rgba(0,0,0,0.2));
+    background-color: #f7f7f7;
+
+}
+
+.card-image1 {
+    display: flex;
+    justify-content: center;
+    width: 270px;
+height: 180px;
+filter: drop-shadow(0 0 5.5px rgba(0,0,0,0.2));
+background-color: #f7f7f7;
+    
+}
+.card-image {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card-body h3 {font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #424242;
+    font-weight: 700;
+    font-family: "Exo";
+   text-align: center; 
+}
